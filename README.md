@@ -1,2 +1,2 @@
-# 4D-BLOCKS
-FIRST 8 BLOCKS
+# 4D BLOCKS
+First 8 Blockchains.
