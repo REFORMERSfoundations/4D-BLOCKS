@@ -1,2 +1,2 @@
 # 4D BLOCKS
-First 8 Blockchains.
+Eight 4D Master Blockchains.
